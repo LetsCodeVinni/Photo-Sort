@@ -30,4 +30,4 @@ Please Keep in mind that the info boxes and Texts are mostly German, but an Engl
 
 # Changelog:
 
-# V1.0: Official Release of "PhotoSort"
+V1.0: Official Release of "PhotoSort"
